@@ -89,7 +89,7 @@ progress::-webkit-progress-value {
   box-shadow: rgba(0, 62, 121, 0.356);
   background-image: linear-gradient(pink ,peachpuff, pink);
   margin: 5px;
-  margin-right: 35px;
+  margin-right: 18px;
   border-radius: 4px;
   padding: 2px 12px;
 }
@@ -102,7 +102,7 @@ progress::-webkit-progress-value {
   color: rgb(255, 255, 252);
   border-width: 3px;
   margin: 5px;
-  margin-right: 35px;
+  margin-right: 18px;
   padding: 2px 12px;
 }
 
@@ -121,7 +121,7 @@ progress::-webkit-progress-value {
   font-style: bold;
   border-color: black, 2px;
   border-style: dotted;
-  margin: 20px 0px 0px;
+  margin: 20px 55px 0px;
   padding: 0px 12px;
   border-radius: 8px;
   margin-right: 50px;
